@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![](Screenshot1.png)
-<br/>
 ![](Screenshot2.png)
 <br />
 ![](Screenshot3.png)
